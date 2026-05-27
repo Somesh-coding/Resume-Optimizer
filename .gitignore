@@ -1,0 +1,19 @@
+# env
+.env
+.env.*
+
+# java
+target/
+*.jar
+
+# node
+node_modules/
+dist/
+
+# python
+venv/
+__pycache__/
+
+# ide
+.idea/
+.vscode/
